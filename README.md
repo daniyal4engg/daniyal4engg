@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniyal Shaikh</h1>
 <h3 align="center">A passionate Full-Stack Web developer.</h3>
 
+<hr>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal4engg&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal4engg" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/daniyal4engg" target="blank"><img src="https://img.shields.io/twitter/follow/daniyal4engg?logo=twitter&style=for-the-badge" alt="daniyal4engg" /></a> </p> -->
@@ -54,10 +55,11 @@
 <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
   </p>
 <br>
+<hr>
 <br>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=daniyal4engg&show_icons=true&theme=onedark" alt="daniyal4engg" />
 <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyal4engg&show=css&theme=nord" alt="daniyal4engg" />
 </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=daniyal4engg&theme=nord" alt="daniyal4engg" /></p>
+<p align="center" border-radius="300px"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=daniyal4engg&theme=nord" alt="daniyal4engg" /></p>
