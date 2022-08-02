@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋 there, I'm passionate Full-Stack Web developer.</h3>
+<h2 align="center">Hi 👋 there, I'm passionate Full-Stack Web developer.</h2>
 
 <hr>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal4engg&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal4engg" /> </p> -->
